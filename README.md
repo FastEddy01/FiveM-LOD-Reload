@@ -1,6 +1,5 @@
-# FiveM-LOD-Reload
-A command that reloads the LOD draw distance on the client [Can be used to help with texture loss in some cases)
-#### Resource [:] Client-Side
+# FiveM-LOD-Reload [Client]
+A command that reloads the LOD draw distance on the client [Can be used to help with texture loss in some cases)\
 ![N|Solid](https://cdn.discordapp.com/attachments/796230402540306443/911701344744792135/ezgif-2-92ec2225992a.gif)
 
 
