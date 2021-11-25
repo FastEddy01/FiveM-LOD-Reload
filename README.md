@@ -9,6 +9,10 @@ A command that reloads the LOD draw distance on the client [Can be used to help 
 | **Refresh_LOD** | *Reloads the LOD Draw Distance* |
 
 
+#### Current Programming Lanaguages Used 
+``````
+- Lua 5.3
+``````
 
 ## Installiation Guide
 
